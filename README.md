@@ -8,13 +8,4 @@ Because I liked Juuso's idea (https://github.com/juuso/BozoCrack), but I wanted 
 
 Usage
 =====
-`$ ./ydecrypt -h`
 `usage: ydecrypt.py [-h] [--crack-hash HASH] [--check STRING] [-f FILE]`
-``
-`Crack/Check Hashes with Google.`
-``
-`optional arguments:`
-`  -h, --help            show this help message and exit`
-`  --crack-hash HASH     crack the given hash`
-`  --check STRING        check if google has a hash for the given string`
-`  -f FILE, --file FILE  read hashes from file`
